@@ -1,0 +1,7 @@
+streamlit
+pandas==1.5.3
+numpy==1.26.4
+pandasai==2.4.2
+openai==0.28.0
+scikit-learn
+tensorflow==2.14.0
