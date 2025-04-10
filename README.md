@@ -12,7 +12,6 @@ This is an AI-powered Streamlit chatbot for analyzing employee scheduling data. 
 - Python 3.9+
 - OpenAI API key (for PandasAI integration)
 
-- 
 ## 🛠️ Usage
 ### 1. Train and Save Models
 Run the following script to train LSTM models for daily, weekly, and monthly forecasting:
