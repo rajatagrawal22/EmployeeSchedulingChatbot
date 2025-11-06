@@ -16,29 +16,7 @@ The project is built on Python, with a focus on Streamlit for the interactive UI
 - Natural language queries on employee shift data
 - Predict daily, weekly, and monthly staffing needs
 - Visualize time series trends
-- Attendance Analysis
 
--Visualizes employee attendance trends.
-
---Detects irregular patterns, late arrivals, and absenteeism.
-
-Overtime Tracking
-
-Calculates total overtime per employee.
-
-Provides reports for payroll and workforce planning.
-
-Predictive Staffing
-
-Uses LSTM models to forecast staffing requirements.
-
-Helps optimize scheduling to reduce understaffing or overstaffing.
-
-Interactive Chatbot Interface
-
-Ask natural language questions about schedules, overtime, or predictions.
-
-Immediate, visual, and text-based responses.
 ## 🧠 Prerequisites
 - Python 3.9+
 - OpenAI API key (for PandasAI integration)
